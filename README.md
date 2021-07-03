@@ -1,2 +1,2 @@
 # Hello README
-"Hello World" programs using languages that I know
+Printing "Hello World" using different languages that I know
